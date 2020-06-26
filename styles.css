@@ -1,0 +1,99 @@
+h3{
+
+    color: darkred;
+    text-align: center;
+}
+
+h4{
+
+    color: darkslateblue;
+    text-align: center;
+}
+
+
+p{
+    margin-bottom: 0px;
+    
+    margin-top: 300px;
+    
+    margin-right: 2000px;
+    
+    margin-left: 0px;
+  
+    } 
+
+body{
+
+    background-color: black;
+    
+   
+    
+}
+
+
+
+ul {
+
+    text-align: left;
+    column-gap: 50px;
+}
+
+ol{
+
+    text-align: left;
+    color: maroon;
+}
+
+.Forex{
+    width: 380px;
+    
+margin-left: 500px;
+    
+
+    padding-top: 10px;
+}
+
+.prog{
+    width: 400px;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+    border: turquoise;
+}
+
+
+h1{
+
+    font-size: 30px;
+
+}
+
+.container{
+
+    font-size: 15px;
+
+}
+
+button{
+
+    margin-top: 25px;
+}
+
+
+topp{
+
+    margin-top:0px ;
+}
+
+newmm{
+
+
+    display: block;
+
+}
+  .line{
+
+    color: rgb(226, 198, 226)
+  }
+
+ 
